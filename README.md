@@ -1,10 +1,11 @@
 # Pikachu! ⭐🌩️⚡
 2023 ECE Summer Microbotic Workshop Project -Auto Line Tracking Car
 
-This project was built over a course of 3 weeks and consists:
+This project was built over a course of 3 weeks and consists of:
 
 - CAD-ing a 3d model car
 - integrating electrical components including IR sensors, motor driver and motors, Arduino, LEDs.
+- Programming controls in Arduino IDE
 
 **Version 1 of Pikachu**  
 
