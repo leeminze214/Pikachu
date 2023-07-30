@@ -8,7 +8,7 @@ This project was built over a course of 3 weeks and consists:
 
 **Version 1 of Pikachu**  
 
-- failed to perform steeper turns
+- failed to perform steeper turns (<=90 degrees) 
 - failed to climb up ramp efficiently
 
 ![V1](https://github.com/leeminze214/Pikachu/assets/61095332/7072a04e-9ee7-42e0-82e9-e1f1b4bb3e04)
